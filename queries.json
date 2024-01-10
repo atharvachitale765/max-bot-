@@ -1,0 +1,11 @@
+{
+  "greetings": ["hello", "hi", "hey", "greetings"],
+  "goodbyes": ["goodbye", "bye", "exit", "quit"],
+  "jokes": ["tell me a joke", "joke", "say something funny"],
+  "weather": ["weather", "what's the weather like", "temperature"],
+  "time": ["time", "current time", "what time is it"],
+  "wikipedia": ["search wikipedia", "tell me about", "what is"],
+  "website_control": ["hand control", "control website", "mouse control"],
+  "custom_commands": ["open", "search", "do something"],
+  "youtube": ["open youtube", "play videos on youtube", "play video"]
+}
