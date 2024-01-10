@@ -1,5 +1,5 @@
 # max-bot-
-a simple bot which performs your basic tasks.
+a simple bot that performs your basic tasks.
  
 For Installation:
 ```
