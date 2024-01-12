@@ -1,11 +1,16 @@
 {
-  "greetings": ["hello", "hi", "hey", "greetings"],
+  "greetings": ["hey max!", "hello", "hi", "hey", "greetings"],
   "goodbyes": ["goodbye", "bye", "exit", "quit"],
   "jokes": ["tell me a joke", "joke", "say something funny"],
+  "random_fact": ["tell me a random fact", "random fact", "fact","what are some random facts", "exicting facts"],
   "weather": ["weather", "what's the weather like", "temperature"],
-  "time": ["time", "current time", "what time is it"],
+  "time": ["time", "current time", "what time is it", "what's the time?"],
   "wikipedia": ["search wikipedia", "tell me about", "what is"],
   "website_control": ["hand control", "control website", "mouse control"],
   "custom_commands": ["open", "search", "do something"],
-  "youtube": ["open youtube", "play videos on youtube", "play video"]
+  "youtube": ["open youtube", "play videos on youtube", "play video", "play videos on youtube", "latest videos", "youtube trending", "top songs on youtube"],
+  "advanced_youtube": ["play {topic} on youtube", "search for {topic} videos", "pause the video", "resume the video", "stop the video", "next video", "previous video"],
+  "open_app": ["open app", "launch app", "start app"],
+  "google_search": ["search Google for", "google search", "look up on Google"]
+
 }

@@ -4,3 +4,5 @@ wikipedia==1.4.0
 pyaudio==0.2.13 
 pyjokes==0.6.0
 pyowm==3.3.0
+requests==2.26.0
+
