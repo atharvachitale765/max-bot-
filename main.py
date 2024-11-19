@@ -5,7 +5,7 @@ import speech_recognition as sr
 import os
 import sys
 from sys import platform
-import wikipedia
+import wikipedia    
 import platform
 import pyjokes
 import pyowm
